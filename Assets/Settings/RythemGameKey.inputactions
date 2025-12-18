@@ -1,0 +1,303 @@
+{
+    "version": 1,
+    "name": "RythemGameKey",
+    "maps": [
+        {
+            "name": "4k",
+            "id": "ce89ec75-bbf7-415b-83a5-bf9976fced20",
+            "actions": [
+                {
+                    "name": "butten1",
+                    "type": "Button",
+                    "id": "2b1b01f1-31b3-488f-ad36-2c8e9684a3f4",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "butten2",
+                    "type": "Button",
+                    "id": "d128a569-6c6f-46ef-a3fc-733d42ce78f6",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "butten3",
+                    "type": "Button",
+                    "id": "f4f3bfc8-a93b-47b3-90f3-feb3ebc770ef",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "butten4",
+                    "type": "Button",
+                    "id": "356b2db4-0c9b-491d-9366-840cdb8081d9",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "buttenL",
+                    "type": "Button",
+                    "id": "4e2e8ef0-8175-46a2-b703-47e92e22aeb0",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "buttenR",
+                    "type": "Button",
+                    "id": "576c2922-a3fc-4230-9d0f-fc9bf25f6d65",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "6a8822b1-c2cd-4e75-b501-af768ab898c9",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "butten1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "cd063c96-365a-42ee-9b79-71b33b628656",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "butten2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "7ba606ac-3a23-4057-b884-f64463e473f7",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "butten3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1506ce65-28e2-400d-acc5-32ed76afd604",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "butten4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3a91e907-7bbe-41e6-a81c-c176dcf7ccbc",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "buttenL",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "529e6915-60dd-4aff-af58-ae619da30e4c",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "buttenR",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "6k",
+            "id": "a92ef714-0ad1-4806-9f09-3e6ead006942",
+            "actions": [
+                {
+                    "name": "butten1",
+                    "type": "Button",
+                    "id": "be12ca8e-2ae1-4de3-90f3-0b29a3779ca3",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "butten2",
+                    "type": "Button",
+                    "id": "e895e30e-aa69-4f0d-ae92-980bf871c574",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "butten3",
+                    "type": "Button",
+                    "id": "12364dda-ba98-4c93-b8cb-e03d96fa0bf1",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "butten4",
+                    "type": "Button",
+                    "id": "2b7b6d29-d440-46b2-bb34-844f9b2abf46",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "butten5",
+                    "type": "Button",
+                    "id": "178a28e7-743c-4295-ac46-bb6b5b060b8e",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "butten6",
+                    "type": "Button",
+                    "id": "de8352cf-f6e9-4751-9b49-e2d384176ac7",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "buttenL",
+                    "type": "Button",
+                    "id": "7733bb61-7c28-4407-b852-518d75343e65",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "buttenR",
+                    "type": "Button",
+                    "id": "7f18fc77-fe59-4105-8b20-e7fc74f02e46",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "5874ea2e-d6b8-4397-9600-63fbfa7554b0",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "butten1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "9593a6c2-b57b-4451-9cea-bae5adfaa1fd",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "butten2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8aa02e56-9d91-413d-9b9d-fef0baadea09",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "butten3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "dd741682-344b-4026-8623-412c26017219",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "butten4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1712c050-4287-421c-9b3f-5aa5c9f56b4d",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "butten5",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "10f7d22e-8c7d-4a71-a17e-f773e414058d",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "butten6",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6d40df8b-d171-4b73-9242-cd07402c76cd",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "buttenL",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "72f5ac4a-210f-4eaa-af9f-74db84297583",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "buttenR",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
