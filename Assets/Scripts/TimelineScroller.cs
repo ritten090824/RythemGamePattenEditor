@@ -29,7 +29,7 @@ public class TimelineScroller : MonoBehaviour
     {
         if (palette != null) startY = palette.anchoredPosition.y;
 
-        if (musicSource != null && musicSource.clip != null) 
+        if (musicSource != null && musicSource.clip != null)
             musicLength = musicSource.clip.length;
 
         if (beatLineGenerator != null)
@@ -42,7 +42,7 @@ public class TimelineScroller : MonoBehaviour
 
     public void beatScrolSet()
     {
-        if (musicSource != null && musicSource.clip != null) 
+        if (musicSource != null && musicSource.clip != null)
             musicLength = musicSource.clip.length;
     }
 
@@ -65,7 +65,7 @@ public class TimelineScroller : MonoBehaviour
                             : startY - (musicSource.time * px);
 
             palette.anchoredPosition = new Vector2(
-                palette.anchoredPosition.x, 
+                palette.anchoredPosition.x,
                 newY
             );
 
@@ -83,7 +83,7 @@ public class TimelineScroller : MonoBehaviour
                 newY = scrollUp ? startY + offset : startY - offset;
 
                 palette.anchoredPosition = new Vector2(
-                    palette.anchoredPosition.x, 
+                    palette.anchoredPosition.x,
                     newY
                 );
 
